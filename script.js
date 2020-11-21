@@ -1,9 +1,10 @@
-clear (){
+//clear display screen
+clear () {
 
 }
 
 //delete a single digit
-delete(){
+delete() {
 
 }
 
@@ -21,5 +22,5 @@ compute() {
 }
 
 updateDisplay() {
-  
+
 }
